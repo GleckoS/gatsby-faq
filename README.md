@@ -10,8 +10,8 @@
     )
     
 # Style details
-  --details - wrapper
-    --summary - question
-      --span - question text
-    --p  - answer
-      --span - answer text
+    --details - wrapper
+        --summary - question
+            --span - question text
+        --p  - answer
+            --span - answer text
