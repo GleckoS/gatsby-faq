@@ -10,7 +10,6 @@
     )
     
 # Style details
-
   --details - wrapper
     --summary - question
       --span - question text
